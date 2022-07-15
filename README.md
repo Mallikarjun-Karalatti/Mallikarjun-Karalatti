@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mallikarjun-Karalatti
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning git,dsa in java, fontend web developing
+- 🌱 I’m currently learning git,dsa in java, frontend web developing
 - 💞️ I’m looking to collaborate on projects based on developments
 - 📫 How to reach me ...
 
