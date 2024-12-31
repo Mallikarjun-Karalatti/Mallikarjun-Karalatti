@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Mallikarjun-Karalatti
+- 👋 Hi, I’m @Mallikarjun
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning git,dsa in java, frontend web developing and UI/UX
+- 🌱 I’m currently learning Android 
 - 💞️ I’m looking to collaborate on projects based on developments
 - 📫 How to reach me ...
+     LinkedIn : https://www.linkedin.com/in/mallikarjun-karalatti-9b4a161b7/
 
 <!---
 Mallikarjun-Karalatti/Mallikarjun-Karalatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
