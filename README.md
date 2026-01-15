@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mallikarjun
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning Android 
+- 🌱 I’m currently learning Web3 
 - 💞️ I’m looking to collaborate on projects based on developments
 - 📫 How to reach me ...
      LinkedIn : https://www.linkedin.com/in/mallikarjun-karalatti-9b4a161b7/
